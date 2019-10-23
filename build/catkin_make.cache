@@ -1,0 +1,2 @@
+qrtrnion_conv
+-DCATKIN_DEVEL_PREFIX=/home/soumya/eulers_ws/devel -DCMAKE_INSTALL_PREFIX=/home/soumya/eulers_ws/install -G Unix Makefiles

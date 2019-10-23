@@ -1,0 +1,8 @@
+prefix=/home/soumya/eulers_ws/install
+
+Name: qrtrnion_conv
+Description: Description of qrtrnion_conv
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/soumya/eulers_ws/install/lib 
+Requires: 
